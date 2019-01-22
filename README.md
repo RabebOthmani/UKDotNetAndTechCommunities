@@ -1,4 +1,4 @@
-# DotNet-Tech-communities-in-the-UK
+# DotNet & Tech communities in the UK
 
 This started as a Twitter thread where I was trying to find out more about meetups happening in Scotland.
 We ended up with an amazing very valuable thread with a list of meetups happening in the UK and their organisers.
