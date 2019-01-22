@@ -5,7 +5,7 @@ We ended up with an amazing very valuable thread with a list of meetups happenin
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Any .NET meetups up north looking for speakers? I&#39;d love to visit Scotland again (<a href="https://twitter.com/judy2k?ref_src=twsrc%5Etfw">@judy2k</a> keeps nagging I should visit him)<a href="https://twitter.com/ICooper?ref_src=twsrc%5Etfw">@ICooper</a> <a href="https://twitter.com/dylanbeattie?ref_src=twsrc%5Etfw">@dylanbeattie</a> Do you know any usergroups there? Thanks</p>&mdash; BiBi (@Rabeb_Othmani) <a href="https://twitter.com/Rabeb_Othmani/status/1085506638520438784?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </br>
 </br>
