@@ -32,3 +32,4 @@ Please feel free to contribute if you know any other communities.
 * [Derbyshire Dot Net](https://www.derbyshiredotnet.co.uk/) - organiser[Stephen Haunts](https://twitter.com/stephenhaunts)
 * [.Net South East](https://twitter.com/dotnetsoutheast) - organiser[Steve Gordon](https://twitter.com/stevejgordon)
 * [London .Net Users](https://twitter.com/LondonDotNet) - organisers[Dylan Beattie](https://twitter.com/dylanbeattie), [Ian Cooper](https://twitter.com/icooper), [Liam Westley](https://twitter.com/westleyl), [Toby Henderson](https://twitter.com/holytshirt)
+* [.NET South West](https://www.meetup.com/dotnetsouthwest/) - organisers [Joseph Woodward](https://twitter.com/joe_mighty), [Stuart Lang](https://twitter.com/stuartblang)
